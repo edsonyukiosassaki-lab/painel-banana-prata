@@ -1,5 +1,4 @@
 name: Coleta Diária de Preços de Banana
-
 on:
   schedule:
     - cron: '0 18 * * *'
